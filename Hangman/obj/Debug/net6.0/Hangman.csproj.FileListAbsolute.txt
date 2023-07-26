@@ -1,0 +1,15 @@
+H:\Git Reps\eupotter\Hangman\bin\Debug\net6.0\Hangman.exe
+H:\Git Reps\eupotter\Hangman\bin\Debug\net6.0\Hangman.deps.json
+H:\Git Reps\eupotter\Hangman\bin\Debug\net6.0\Hangman.runtimeconfig.json
+H:\Git Reps\eupotter\Hangman\bin\Debug\net6.0\Hangman.dll
+H:\Git Reps\eupotter\Hangman\bin\Debug\net6.0\Hangman.pdb
+H:\Git Reps\eupotter\Hangman\obj\Debug\net6.0\Hangman.csproj.AssemblyReference.cache
+H:\Git Reps\eupotter\Hangman\obj\Debug\net6.0\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+H:\Git Reps\eupotter\Hangman\obj\Debug\net6.0\Hangman.AssemblyInfoInputs.cache
+H:\Git Reps\eupotter\Hangman\obj\Debug\net6.0\Hangman.AssemblyInfo.cs
+H:\Git Reps\eupotter\Hangman\obj\Debug\net6.0\Hangman.csproj.CoreCompileInputs.cache
+H:\Git Reps\eupotter\Hangman\obj\Debug\net6.0\Hangman.dll
+H:\Git Reps\eupotter\Hangman\obj\Debug\net6.0\refint\Hangman.dll
+H:\Git Reps\eupotter\Hangman\obj\Debug\net6.0\Hangman.pdb
+H:\Git Reps\eupotter\Hangman\obj\Debug\net6.0\Hangman.genruntimeconfig.cache
+H:\Git Reps\eupotter\Hangman\obj\Debug\net6.0\ref\Hangman.dll
